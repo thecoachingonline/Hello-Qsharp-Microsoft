@@ -1,2 +1,2 @@
 # hello-qsharp-microsoft
-Hello World Azure Quantum
+Hello World Azure Q# Quantum
