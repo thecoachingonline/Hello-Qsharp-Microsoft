@@ -1,6 +1,9 @@
-open Microsoft.Quantum.Intrinsic;
+namespace HelloWorld {
+    open Microsoft.Quantum.Intrinsic;
 
-// Define the operation to create a Bell state
-operation HelloQ() : Unit {
-    Message("Hello, Q# world!");
+    // Define the operation to create a Bell state
+    operation HelloQ() : Unit {
+        Message("Hello, Q# world!");
+        ResetAll(Zero);
+    }
 }
