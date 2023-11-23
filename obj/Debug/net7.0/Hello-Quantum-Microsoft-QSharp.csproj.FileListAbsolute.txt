@@ -1,0 +1,15 @@
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.csproj.AssemblyReference.cache
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.AssemblyInfoInputs.cache
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.AssemblyInfo.cs
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.csproj.CoreCompileInputs.cache
+/workspaces/Hello-Quantum-Microsoft-QSharp/bin/Debug/net7.0/Hello-Quantum-Microsoft-QSharp
+/workspaces/Hello-Quantum-Microsoft-QSharp/bin/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.deps.json
+/workspaces/Hello-Quantum-Microsoft-QSharp/bin/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.runtimeconfig.json
+/workspaces/Hello-Quantum-Microsoft-QSharp/bin/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.dll
+/workspaces/Hello-Quantum-Microsoft-QSharp/bin/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.pdb
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.dll
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/refint/Hello-Quantum-Microsoft-QSharp.dll
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.pdb
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/Hello-Quantum-Microsoft-QSharp.genruntimeconfig.cache
+/workspaces/Hello-Quantum-Microsoft-QSharp/obj/Debug/net7.0/ref/Hello-Quantum-Microsoft-QSharp.dll
